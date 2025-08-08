@@ -1,7 +1,7 @@
-public record Moneda(String mxn,
-                     String ars,
-                     String cop,
-                     String brl,
-                     String usd) {
+public record Moneda(double mxn,
+                     double ars,
+                     double cop,
+                     double brl,
+                     double usd) {
 
 }
